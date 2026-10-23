@@ -2,9 +2,19 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Vanilla">
-  <img src="https://img.shields.io/badge/RegEx-Expressões%20Regulares-6C63FF?style=for-the-badge" alt="Expressões Regulares">
+  <img src="https://img.shields.io/badge/RegEx-Express%C3%B5es%20Regulares-6C63FF?style=for-the-badge" alt="Expressões Regulares">
   <img src="https://img.shields.io/badge/HTML5-Data%20Attributes-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Data Attributes">
   <img src="https://img.shields.io/badge/CSS3-Responsive%20Design-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Responsive Design">
+</p>
+
+## 🌐 Visualização Online
+
+Acesse a versão publicada na Vercel e experimente o formulário de validação diretamente pelo navegador.
+
+<p align="center">
+  <a href="https://projeto-validador-de-formulario.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visualizar%20Projeto-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visualizar projeto online na Vercel">
+  </a>
 </p>
 
 ## 📌 Sobre o Projeto
@@ -108,9 +118,9 @@ O projeto utiliza tecnologias nativas do navegador e não exige instalação de 
    cd projeto-validador-de-formulario
    ```
 
-3. **Abra a aplicação:**
+3. **Execute a aplicação:**
 
-   Abra o arquivo `index.html` diretamente no navegador ou utilize a extensão Live Server no Visual Studio Code para executar o projeto em um servidor local.
+   Abra o arquivo `index.html` diretamente em um navegador moderno ou utilize a extensão Live Server no Visual Studio Code para executar o projeto em um servidor local.
 
 ## 👨‍💻 Autor
 
@@ -120,5 +130,5 @@ Estudante de Engenharia da Computação, com foco em desenvolvimento Full-Stack.
 ---
 
 <p align="center">
-  Projeto desenvolvido para fins educacionais e para consolidação de conhecimentos em HTML5, CSS3, JavaScript, Expressões Regulares e desenvolvimento de interfaces responsivas.
+  Projeto desenvolvido para fins educacionais e para consolidação de conhecimentos em HTML5, CSS3, CSS Grid, Flexbox e desenvolvimento de interfaces responsivas.
 </p>
